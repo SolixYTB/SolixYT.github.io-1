@@ -41,6 +41,8 @@ header li a {
     display: block;
     text-align: center;
     padding: 18px 16px;
+    font-weight: bold;
+    text-shadow: 1px 2px black;
 }
 #logo {
     font-family: 'Dancing Script', cursive;
@@ -93,6 +95,7 @@ h3 {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 30px 10%;
+background-color: lightgray;
 }
 .imagesPrestations h4 {
     font-family: 'Dancing Script', cursive;
@@ -113,7 +116,7 @@ h3 {
 /* ************************** TOURISME ************************************* */
 #tourisme {
     height: 1400px;
-    background-color:  #f1f2f6;
+    background-color:  lightgray;
     padding: 1px 2%;
 }
 #tourisme h2 {
